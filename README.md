@@ -22,3 +22,6 @@ https://github.com/tkhyn/dirsync
 mac系统；
 理论上linux都可以使用；
 windows未测试。
+
+## 不足
+多进程失败，遗憾，不够已经比前台复制快很多了，先凑活用吧。
